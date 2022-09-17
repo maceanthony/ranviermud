@@ -51,12 +51,12 @@
         "type": "regen",
         "unique": true
       },
-      "elapsed": 359223,
+      "elapsed": 359226,
       "id": "regen",
       "remaining": null,
       "state": {
         "magnitude": 15,
-        "lastTick": 1970,
+        "lastTick": 1973,
         "ticks": 117
       }
     },
@@ -74,14 +74,14 @@
         "type": "skill:rend",
         "unique": true
       },
-      "elapsed": 19818,
+      "elapsed": 19822,
       "id": "skill.rend",
-      "remaining": 182,
+      "remaining": 178,
       "skill": "rend",
       "state": {
         "totalDamage": 8,
         "stacks": 2,
-        "lastTick": 1315,
+        "lastTick": 1319,
         "ticks": 7
       }
     }
