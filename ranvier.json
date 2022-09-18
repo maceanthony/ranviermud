@@ -1,5 +1,5 @@
 {
-  "port": 4000,
+  "port": 4884,
   "bundles": [
     "bundle-example-areas",
     "bundle-example-channels",
@@ -84,9 +84,9 @@
       }
     }
   },
-  "maxAccountNameLength": 20,
+  "maxAccountNameLength": 14,
   "minAccountNameLength": 3,
-  "maxPlayerNameLength": 20,
+  "maxPlayerNameLength": 14,
   "minPlayerNameLength": 3,
   "maxCharacters": 3,
   "reportToAdmins": false,
